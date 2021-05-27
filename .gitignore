@@ -1,0 +1,6 @@
+.vscode
+build
+gen-cpp
+server
+client
+hello.dSYM
